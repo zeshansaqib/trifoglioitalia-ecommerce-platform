@@ -1,22 +1,30 @@
 # Trifoglio Italia – International E-Commerce Platform
 
-## Overview
-Redesigned and developed an e-commerce watch store targeting
-USA, Spain, and Singapore markets with SEO-focused architecture.
+https://www.trifoglioitalia.com/
 
-## Responsibilities
-- Full website redesign
-- Custom admin & logging modules
-- SEO optimization
+## 🌐 Project Overview
+E-commerce watch store targeting USA, Spain, and Singapore markets.
+Redesigned frontend, improved SEO, and developed admin modules.
+
+## 👨‍💻 My Role
+Full Stack Developer
+
+- Full website redesign and frontend development
+- SEO-friendly architecture
+- Admin panel and logging modules
 - Multi-region performance optimization
 
-## Stack
-PHP, WordPress, MySQL, JavaScript, SEO tools
+## 🛠 Tech Stack
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Achievements
-- Improved SEO ranking
-- Faster page load times
-- Scalable admin system
+## 🚀 Key Features
+- SEO-friendly product pages
+- Custom admin modules
+- Fast-loading multi-country storefront
+- Secure checkout & user management
 
-## Code Notice
-Proprietary client code – not publicly available
+## 🔒 Code Availability
+Private due to NDA
